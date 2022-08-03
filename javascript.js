@@ -1,0 +1,2 @@
+alert("Bienvenidos!");
+console.log();
