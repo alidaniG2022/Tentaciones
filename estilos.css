@@ -1,0 +1,51 @@
+* {
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+.titulo {
+    align-items: center;
+    font-family: 'Broadway', 'Times New Roman', Times, serif;
+    background-color: rgb(241, 226, 239);
+    color: rgb(189, 25, 204);
+    font-size: 50px;
+}
+
+h1 {
+    font-size: medium;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(243, 99, 243);
+}
+
+header {
+    font-family: 'Broadway', 'Times New Roman', Times, serif;
+    background-color: rgb(247, 188, 237);
+    font-style: normal;
+    color: rgb(209, 80, 221);
+    font-size: 7;
+    text-align: center;
+}
+
+nav {
+    background-color: rgb(196, 170, 199);
+    color: rgb(192, 197, 228);
+}
+
+caja1,
+caja2 {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(247, 188, 237);
+}
+
+aside {
+    background-color: rgb(201, 165, 235);
+    margin-right: 5px;
+   
+}
+
+flooter,
+p {
+    background-color: cornsilk;
+   
+}
